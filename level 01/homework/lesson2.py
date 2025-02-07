@@ -38,4 +38,3 @@ print(name+" " +surname+" "+str(age) + " "+ str(height)  )
 
 
 
-
